@@ -1,6 +1,6 @@
 ## Hi Dear
 
-##### I am Abhishek Yadav. I have completed my B.Tech. in the field of Electrical Engineering with a score of 8.17/10 CGPA from Lakshmi Narain College of Technology.I am a MERN Stack Web Developer with one Year of industrial experience from ITC INFOTECH(Bengluru).
+##### I am Abhishek Yadav. I have completed B.Tech. in the field of Electrical Engineering with a score of 8.17/10 CGPA from Lakshmi Narain College of Technology.I am a MERN Stack Web Developer with one Year of industrial experience from ITC INFOTECH(Bengluru).
 ---
 ##### Skill Set :-  HTML, CSS, Basic JavaScript, React.js, Bootstrap, Node.js and Mongodb.
 Programming Language :- java, and I am aware with C++. </br>
