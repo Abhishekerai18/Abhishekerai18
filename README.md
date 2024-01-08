@@ -1,12 +1,13 @@
 ## Hi Dear
 
-I am Abhishek Yadav a MERN Stack Developer with one Year of industrial experience.
+I am Abhishek Yadav. I have completed my engineering in the field of Electrical Engineering with a score of 8.17/10 CGPA from Lakshmi Narain College of Technology.I am a MERN Stack Web Developer with one Year of industrial experience from ITC INFOTECH(Bengluru).
+---
 ##### Skill Set :-  HTML, CSS, Basic JavaScript, React.js, Bootstrap, Node.js and Mongodb.
 Programming Language :- java, and I am aware with C++. </br>
-[LeetCode Profile][https://leetcode.com/Abhishek_Yadav18/] </br>
-[Email][abhishekyadavsjs@gmail.com] </br>
+[LeetCode Profile]  [https://leetcode.com/Abhishek_Yadav18/] </br>
+[Email-Id]  [abhishekyadavsjs@gmail.com] </br>
 
-Here are some ideas to get you started:
+
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
